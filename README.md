@@ -28,7 +28,7 @@ Link to apk file
 https://drive.google.com/file/d/1jQ_zAu7vbjL_Sps5rl9GGhMaKrC_eivL/view?usp=drive_link
 
 #### QR Code to Download the App
-![QR Code]()
+![QR Code](https://github.com/Anonymous00714/anonymous/blob/main/QR-Code.jpeg)
 
 ---
 
