@@ -24,6 +24,9 @@ To download and install the app:
 2. Enable "Install from Unknown Sources" in your Android device settings.
 3. Tap on the downloaded APK to install.
 
+Link to apk file
+https://drive.google.com/file/d/1jQ_zAu7vbjL_Sps5rl9GGhMaKrC_eivL/view?usp=drive_link
+
 #### QR Code to Download the App
 ![QR Code]()
 
