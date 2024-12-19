@@ -1,6 +1,3 @@
-Here’s an example of a **GitHub README** that includes the download link, QR code, and a link to the demo of your app's working:
-
----
 
 ## Lung Cancer Detection App
 
@@ -38,7 +35,8 @@ To see the demo of the app in action, visit the following link:
 **[Click here to watch the demo](https://drive.google.com/file/d/1n2BosrPkAdpJKsgaeINOzmL8U1z8oFOm/view?usp=sharing)**
 
 ---
-
+Link to App code: https://drive.google.com/drive/folders/1yTjA3fA6ZTii1WiMz2AnwcwBT_oNIliC?usp=sharing
+---
 ### **Getting Started**
 1. Launch the app on your device.
 2. Upload a lung CT image from your gallery or capture one using the camera.
